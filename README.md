@@ -9,6 +9,35 @@ https://roadmap.sh/flutter
 # Part 1: Installation
 
    # Introduction to Flutter:
+   Flutter is an open-source UI software development kit (SDK) developed by Google, used for building natively compiled applications for mobile, web, and desktop from a single codebase. It allows developers to create high-performance, visually appealing applications with a rich set of customizable widgets and a fast development cycle.
+
+      Key Features of Flutter:
+     
+Single Codebase for Multiple Platforms:
+
+Flutter enables the development of applications for iOS, Android, web, and desktop using a single codebase. This means developers can write once and deploy across different platforms.
+Fast Development with Hot Reload:
+
+Flutter's hot reload feature allows developers to instantly view changes made to the code in the app while it's running. It significantly speeds up the development process and facilitates quick iterations.
+Rich Set of Customizable Widgets:
+
+Flutter provides a comprehensive library of widgets for building user interfaces. Widgets are highly customizable, enabling developers to create complex and beautiful UIs.
+High Performance and Smooth Animations:
+
+Flutter delivers high performance by using a custom rendering engine called Skia, which provides fast rendering and smooth animations even on less powerful devices.
+Native Performance:
+
+Flutter compiles code directly to native machine code, resulting in near-native performance on both iOS and Android platforms.
+Open Source and Strong Community Support:
+
+Being an open-source framework, Flutter has a strong and active community. This community contributes to its growth, provides support, and develops additional packages and plugins.
+Basic Structure of a Flutter App:
+Widgets: In Flutter, everything is a widget, from the smallest elements like buttons and text to complex layouts. Widgets are combined to build the app's UI.
+
+Material Design and Cupertino Styles: Flutter provides Material Design widgets for Android-styled applications and Cupertino widgets for iOS-styled applications. Developers can create native-looking interfaces for both platforms.
+
+Dart Programming Language: Flutter apps are primarily written in Dart, a modern, object-oriented language developed by Google. Dart is used for coding UI, handling logic, and managing application state.
+
    https://docs.google.com/presentation/d/17mmmCXEmjUdazJEdnM2jp9LdjNHLa0JeNg76aehj5ko/edit?usp=sharing 
    # Install Flutter :
    https://flutter.dev/docs/get-started/install 
@@ -40,3 +69,5 @@ Dart is prominently known as the language used for developing applications using
 https://www.youtube.com/watch?v=Ej_Pcr4uC2Q 
 # Effective Dart and Core Libraries of Dart
 https://www.youtube.com/watch?v=l-YO9CmaSUM 
+# Something New -HOT RELOAD
+https://docs.flutter.dev/tools/hot-reload 
